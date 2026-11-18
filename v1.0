@@ -1,0 +1,17 @@
+[33mcommit 74ecae98892000eab84cf18e8ea37b013c077ebd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: zdenovec <nickzdenovec@gmail.com>
+Date:   Wed Nov 18 15:31:02 2026 -0600
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 7f420aa312e8f7f9778a98aee8a4f630b17b1593[m
+Author: zdenovec <nickzdenovec@gmail.com>
+Date:   Wed Nov 18 15:17:59 2026 -0600
+
+    Add hello_world.txt
+
+[33mcommit 720b4076ebcc1f18b5d3c170ecde16a265f642ae[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: zdenovec <71675888+zdenovec@users.noreply.github.com>
+Date:   Wed Nov 18 15:11:17 2026 -0600
+
+    Initial commit
